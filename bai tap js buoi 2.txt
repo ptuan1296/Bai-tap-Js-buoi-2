@@ -1,0 +1,11 @@
+// bài tập 1
+
+var a = 8;
+var b = 10;
+
+var countNumber = function (a,b) {
+    return a * b ;
+}
+countNumber(8,10)
+
+80
