@@ -12,3 +12,8 @@ countNumber(8,10)
 
 // bài tập 2
 
+var dataType = function ([ 2, 'tuan', {name: 'tung'; age: 24}, true, false, null ]) {
+    return [];
+}  
+dataType();
+
