@@ -9,3 +9,6 @@ var countNumber = function (a,b) {
 countNumber(8,10)
 
 80
+
+// bài tập 2
+
